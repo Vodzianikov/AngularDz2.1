@@ -1,0 +1,11 @@
+.Main{
+    height: 100vh;
+    width: 100vw;
+}
+.imgI{
+    width: 50%;
+    height: 25%;
+}
+.bgc{
+    background-color: darkgrey;
+}
